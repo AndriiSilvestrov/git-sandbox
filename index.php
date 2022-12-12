@@ -10,5 +10,6 @@
 <body>
     <h1>Git Sandbox!</h1>
     <p>Первый абзатц!</p>
+    <p>Second P!</p>
 </body>
 </html>
