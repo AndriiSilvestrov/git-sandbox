@@ -9,5 +9,6 @@
 </head>
 <body>
     <h1>Git Sandbox!</h1>
+    <p>Первый абзатц!</p>
 </body>
 </html>
